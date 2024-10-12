@@ -1,0 +1,63 @@
+Address of global1: 0x1021ec000
+Address of global2: 0x1021ec004
+Address of global3: 0x1021ec008
+Level 1:
+  Address of local: 0x16dc1b118
+  Address of heap: 0x140605e30
+  Address of global1: 0x1021ec000
+  Address of global2: 0x1021ec004
+  Address of global3: 0x1021ec008
+Level 2:
+  Address of local: 0x16dc1b0e8
+  Address of heap: 0x140606040
+  Address of global1: 0x1021ec000
+  Address of global2: 0x1021ec004
+  Address of global3: 0x1021ec008
+Level 3:
+  Address of local: 0x16dc1b0b8
+  Address of heap: 0x140606050
+  Address of global1: 0x1021ec000
+  Address of global2: 0x1021ec004
+  Address of global3: 0x1021ec008
+Level 4:
+  Address of local: 0x16dc1b088
+  Address of heap: 0x140605ee0
+  Address of global1: 0x1021ec000
+  Address of global2: 0x1021ec004
+  Address of global3: 0x1021ec008
+Level 5:
+  Address of local: 0x16dc1b058
+  Address of heap: 0x140605ef0
+  Address of global1: 0x1021ec000
+  Address of global2: 0x1021ec004
+  Address of global3: 0x1021ec008
+Level 6:
+  Address of local: 0x16dc1b028
+  Address of heap: 0x140605fc0
+  Address of global1: 0x1021ec000
+  Address of global2: 0x1021ec004
+  Address of global3: 0x1021ec008
+Level 7:
+  Address of local: 0x16dc1aff8
+  Address of heap: 0x140605fd0
+  Address of global1: 0x1021ec000
+  Address of global2: 0x1021ec004
+  Address of global3: 0x1021ec008
+Level 8:
+  Address of local: 0x16dc1afc8
+  Address of heap: 0x140605fe0
+  Address of global1: 0x1021ec000
+  Address of global2: 0x1021ec004
+  Address of global3: 0x1021ec008
+Level 9:
+  Address of local: 0x16dc1af98
+  Address of heap: 0x140605ff0
+  Address of global1: 0x1021ec000
+  Address of global2: 0x1021ec004
+  Address of global3: 0x1021ec008
+Level 10:
+  Address of local: 0x16dc1af68
+  Address of heap: 0x140605f40
+  Address of global1: 0x1021ec000
+  Address of global2: 0x1021ec004
+  Address of global3: 0x1021ec008
